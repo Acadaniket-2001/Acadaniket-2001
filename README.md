@@ -5,7 +5,7 @@
 ## :wave: About Me 
 <a href="https://twitter.com/Acadaniket_2001" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-<a href="https://www.linkedin.com/in/aniket-kumar-2001/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn" align="right"></a>
+<a href="https://www.linkedin.com/in/aniket-gupta-75108b230/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn" align="right"></a>
 
 - 👨‍🎓 Hey! I'm Aniket, a junior at KIIT University, pursuing my major in Computer Science and Engineering. My preferred pronouns are **he/him/his**.
 - :octocat: I am a full-stack developer working with Node.js, Express.js, React.js, and JavaScript. Along with this, I'm also highly interested in data science and have built several projects related to automation and analytics.
